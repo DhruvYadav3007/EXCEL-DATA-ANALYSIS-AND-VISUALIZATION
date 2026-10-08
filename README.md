@@ -19,6 +19,9 @@ A comprehensive desktop application for importing, analyzing, and visualizing Ex
 ![Prediction Field Value](output/PredictionFieldValue.png)
 
 ![Prediction Value](output/PredictionValue.png)
+
+## Pie Chart
+![Pie Chart](output/PieChart.png)
 ## 🎯 Features
 
 ### Data Import & Management
