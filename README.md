@@ -6,6 +6,19 @@ A comprehensive desktop application for importing, analyzing, and visualizing Ex
 ![Java](https://img.shields.io/badge/java-8%2B-orange.svg)
 ![MySQL](https://img.shields.io/badge/mysql-5.7%2B-blue.svg)
 
+## Admin Dashboard
+
+![Admin Dashboard](output/AdminDashboard.png)
+
+## Prediction Results
+
+![Prediction Field 1](output/PredictionField1.png)
+
+![Prediction Field 2](output/PredictionField2.png)
+
+![Prediction Field Value](output/PredictionFieldValue.png)
+
+![Prediction Value](output/PredictionValue.png)
 ## 🎯 Features
 
 ### Data Import & Management
